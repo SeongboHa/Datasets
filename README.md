@@ -1,3 +1,3 @@
 # Datasets
-
-for dataset upload
+Replica, TUM dataset
+for GS-ICP-SLAM
